@@ -8,8 +8,10 @@
 
 <h3 align="left">Connect with me:</h3><p align="left">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Monte-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montemarcos/)](https://www.linkedin.com/in/montemarcos/)
-<a href="https://kaggle.com/https://www.kaggle.com/montemarcos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt=" https://www.kaggle.com/montemarcos" height="30" width="40" /></a></p><h3 align="left">Idiomas e Ferramentas:</h3><p align="left">
+[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Monte-00878f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montemarcos/)](https://www.linkedin.com/in/montemarcos/)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Monte-00875f?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/montemarcos/)](https://www.kaggle.com/montemarcos/)
+
+  
 
 
 
