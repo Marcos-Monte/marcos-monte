@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋 , eu sou o Marcos Monte</h1><h3 align="center">Estudante em Análise e Desenvolvimento de Sistemas.</h3>
+<h1 align="center">Oi 👋 , eu sou o Marcos Monte</h1><h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas.</h3>
 
 
 - 🌱 Atualmente estou aprendendo **Tecnologias de Desenvolvimento Front-End!!!**<br><br>
