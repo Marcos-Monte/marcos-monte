@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋 , eu sou o Marcos Monte</h1><h3 align="center">Apaixonado por Ciência e Análise de Dados.</h3>
 
 
-- 🌱 Atualmente estou aprendendo **SQL, T-SQL e Modelagem de Dados.**<br><br>
-- 💬 Me pergunte sobre **SQL Server, Python e Estatística**<br><br>
-- 📫 Você me acha através do email **monteinvestidor@gmail.com**<br><br>
+- 🌱 Atualmente estou aprendendo **Tecnologias de Desenvolvimento Front-End!!!**<br><br>
+- 💬 Me pergunte sobre **HTML5, CSS3 e JavaScript**<br><br>
+- 📫 Você me acha através do email **marcos.monte.junior@gmail.com**<br><br>
 - 📄 Aqui você encontra as minhas habilidades e experiências [linkedin.com/in/montemarcos](linkedin.com/in/montemarcos)
 
 <h3 align="left">Connect with me:</h3><p align="left">
