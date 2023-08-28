@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋 , eu sou o Marcos Monte</h1><h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas.</h3>
 
 
-- 🌱 Atualmente estou aprendendo **Tecnologias de Desenvolvimento Front-End!!!**<br><br>
+- 🌱 Atualmente aprendendo **Tecnologias de Desenvolvimento Front-End!!!**<br><br>
 - 💬 Me pergunte sobre **HTML5, CSS3 e JavaScript**<br><br>
 - 📫 Você me acha através do email **marcos.monte.junior@gmail.com**<br><br>
 - 📄 Aqui você encontra as minhas habilidades e experiências [linkedin.com/in/montemarcos](linkedin.com/in/montemarcos)
