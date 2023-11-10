@@ -2,7 +2,7 @@
 
 
 - 🌱 Atualmente aprendendo **Tecnologias de Desenvolvimento Front-End!!!**<br><br>
-- 💬 Me pergunte sobre **HTML5, CSS3 e JavaScript**<br><br>
+- 💬 Me pergunte sobre **HTML5, CSS3, JavaScript e ReactJs**<br><br>
 - 📫 Você me acha através do email **marcos.monte.junior@gmail.com**<br><br>
 - 📄 Aqui você encontra as minhas habilidades e experiências [linkedin.com/in/montemarcos](linkedin.com/in/montemarcos)
 
@@ -17,7 +17,27 @@
 
 
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="mssql" width="40" height="40"/> 
+</a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="40" height="40"/> 
+</a>  
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> 
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="react" width="40" height="40"/> 
+</a>
 
 
 
