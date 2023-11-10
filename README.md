@@ -9,8 +9,11 @@
 <h3 align="left">Connect with me:</h3><p align="left">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Monte-00878f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montemarcos/)](https://www.linkedin.com/in/montemarcos/)
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Monte-00875f?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/montemarcos/)](https://www.kaggle.com/montemarcos/)
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Monte-000000?style=flat-square&logo=Vercel&logoColor=white&link=https://https://vercel.com/marcos-monte//)](https://vercel.com/marcos-monte/)
+
+<!--[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Monte-00875f?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/montemarcos/)](https://www.kaggle.com/montemarcos/)-->
+
+
 
   
 
