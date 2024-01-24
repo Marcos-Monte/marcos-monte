@@ -2,7 +2,7 @@
 
 
 - 🌱 Atualmente aprendendo **Tecnologias de Desenvolvimento Front-End!!!**<br><br>
-- 💬 Me pergunte sobre **HTML5, CSS3, JavaScript e ReactJs**<br><br>
+- 💬 Me pergunte sobre **HTML5, CSS3, JavaScript, React.Js e Next.Js**<br><br>
 - 📫 Você me acha através do email **marcos.monte.junior@gmail.com**<br><br>
 - 📄 Aqui você encontra as minhas habilidades e experiências [linkedin.com/in/montemarcos](linkedin.com/in/montemarcos)
 
@@ -41,6 +41,10 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="react" width="40" height="40"/> 
 </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" alt="next" width="40" height="40"/> 
+</a>
+
 
 
 
