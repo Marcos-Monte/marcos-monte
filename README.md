@@ -1,25 +1,26 @@
-<h1 align="center">Oi 👋 , eu sou o Marcos Monte</h1><h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas.</h3>
+<h1 align="center">Hi 👋, I'm Marcos Monte</h1><h3 align="center">Systems Analysis and Development Student.</h3>
+
+- Currently learning Front-End 🌱 Development Technologies!! <br><br>
+- 📫 You can find me **marcos.monte.junior@gmail.com**<br><br>
+- 📄 Here you can find my skills and experiences [linkedin.com/in/montemarcos](linkedin.com/in/montemarcos)
 
 
-- 🌱 Atualmente aprendendo **Tecnologias de Desenvolvimento Front-End!!!**<br><br>
-- 💬 Me pergunte sobre **HTML5, CSS3, JavaScript, React.Js e Next.Js**<br><br>
-- 📫 Você me acha através do email **marcos.monte.junior@gmail.com**<br><br>
-- 📄 Aqui você encontra as minhas habilidades e experiências [linkedin.com/in/montemarcos](linkedin.com/in/montemarcos)
+<div align="center">
+  
+<h3 align="center">Connect with me:</h3>
 
-<h3 align="left">Connect with me:</h3><p align="left">
-
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Monte-00878f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montemarcos/)](https://www.linkedin.com/in/montemarcos/)
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Monte-000000?style=flat-square&logo=Vercel&logoColor=white&link=https://https://vercel.com/marcos-monte//)](https://vercel.com/marcos-monte/)
-
-<!--[![Linkedin Badge](https://img.shields.io/badge/-Marcos%20Monte-00875f?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/montemarcos/)](https://www.kaggle.com/montemarcos/)-->
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00878f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montemarcos/)](https://www.linkedin.com/in/montemarcos/)
+[![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white&link=https://https://vercel.com/marcos-monte//)](https://vercel.com/marcos-monte/)
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-2f7735?style=flat-square&logo=Whatsapp&logoColor=white&link=https:https://web.whatsapp.com/)](https://api.whatsapp.com/send?phone=5513996398240
+)
+</div>
 
 
   
 
-
-
-
+<div align="center">
+<h3 align="center">Technologies</h3>
+  
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="mssql" width="40" height="40"/> 
 </a> 
@@ -45,6 +46,7 @@
   <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" alt="next" width="40" height="40"/> 
 </a>
 
+</div>
 
 
 
