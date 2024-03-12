@@ -15,9 +15,6 @@
 )
 </div>
 
-
-  
-
 <div align="center">
 <h3 align="center">Technologies</h3>
   
@@ -47,6 +44,10 @@
 </a>
 
 </div>
+
+
+  
+![MographlloCode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Monte&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
