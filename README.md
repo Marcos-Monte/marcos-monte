@@ -17,13 +17,20 @@
 
 <div align="center">
 <h3 align="center">Technologies</h3>
-  
+
+  <!-- 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="mssql" width="40" height="40"/> 
 </a> 
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
+
+<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> 
+</a>
+-->
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> 
 </a> 
@@ -33,14 +40,15 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> 
 </a> 
-<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> 
-</a>
+
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="react" width="40" height="40"/> 
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" alt="next" width="40" height="40"/> 
+</a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="node" width="40" height="40"/> 
 </a>
 
 </div>
