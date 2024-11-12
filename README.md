@@ -24,7 +24,7 @@ Tenho experiência em desenvolvimento Full Stack com ênfase em JavaScript, Reac
 
 ## Projetos em Destaque:
 
-- [**Pagina Institucional - Candidato a Vereador**](lhttps://github.com/Marcos-Monte/thiago-andrade)
+- [**Pagina Institucional - Candidato a Vereador**](https://github.com/Marcos-Monte/thiago-andrade)
 
 - [**Cadastro e Monitoramento de Gestantes - Unidade de Saúde**](https://github.com/Marcos-Monte/cadastro-gestantes)
 
