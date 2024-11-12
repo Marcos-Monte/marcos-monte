@@ -1,75 +1,38 @@
-<h1 align="center">Hi 👋, I'm Marcos Monte</h1><h3 align="center">Systems Analysis and Development Student.</h3>
+## Olá! <img src="./assets/Hi.gif" alt="hi" width="29px"> Sou Marcos Monte, Desenvolvedor de Sistemas! 
 
-- Currently learning Front-End 🌱 Development Technologies!! <br><br>
-- 📫 You can find me **marcos.monte.junior@gmail.com**<br><br>
-- 📄 Here you can find my skills and experiences [linkedin.com/in/montemarcos](linkedin.com/in/montemarcos)
+### Um pouco sobre mim:
+Além de programador, sou apaixonado por basquete e artes marciais. Também sou um grande incentivador do Sistema Único de Saúde (SUS), pois acredito que ele é essencial para o bem-estar coletivo.
 
+### Portfólio:
+Confira meu portfólio de projetos em [meu portfólio](https://portifolio-marcosmontes-projects.vercel.app/).
 
-<div align="center">
-  
-<h3 align="center">Connect with me:</h3>
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00878f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montemarcos/)](https://www.linkedin.com/in/montemarcos/)
-[![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white&link=https://https://vercel.com/marcos-monte//)](https://vercel.com/marcos-monte/)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-2f7735?style=flat-square&logo=Whatsapp&logoColor=white&link=https:https://web.whatsapp.com/)](https://api.whatsapp.com/send?phone=5513996398240
-)
+## GitHub Stats
+
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcos-monte&custom_title=Github+Stats&bg_color=113&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286" alt="GitHub Stats" width="406" />
 </div>
 
-<div align="center">
-<h3 align="center">Technologies</h3>
+## Habilidades
 
-  <!-- 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="mssql" width="40" height="40"/> 
-</a> 
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,react,next,html,css,git,github,vscode,vercel,nodejs,linux)](https://skillicons.dev)
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
+Tenho experiência em desenvolvimento Full Stack com ênfase em JavaScript, React, Next.js, Node.js e Linux. Trabalho tanto no front-end quanto no back-end, sempre buscando melhorar a experiência do usuário e a performance do sistema.
 
-<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> 
-</a>
--->
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="css3" width="40" height="40"/> 
-</a>  
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> 
-</a> 
+## Projetos em Destaque:
 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="react" width="40" height="40"/> 
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" alt="next" width="40" height="40"/> 
-</a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="node" width="40" height="40"/> 
-</a>
+- [**Pagina Institucional - Candidato a Vereador**](lhttps://github.com/Marcos-Monte/thiago-andrade)
 
+- [**Cadastro e Monitoramento de Gestantes - Unidade de Saúde**](https://github.com/Marcos-Monte/cadastro-gestantes)
+
+- [**API - Cadastro e Monitoramento de Gestantes - Unidade de Saúde**](https://github.com/Marcos-Monte/api-cadastro-gestantes)
+
+### 📭 Contatos
+
+<div>
+   <a href="mailto:marcos.monte.junior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/montemarcos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-
-  
-![MographlloCode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Monte&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-
-
-<!--
-**Marcos-Monte/Marcos-Monte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/snake.svg" alt="snake game" align="center" style="width: 100%" /> 
