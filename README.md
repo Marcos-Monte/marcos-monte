@@ -40,4 +40,4 @@ Tenho experiência em desenvolvimento Full Stack com ênfase em JavaScript, Reac
 </div>
 
 
-<img src="./assets/snake.svg" alt="snake game" align="center" style="width: 100%" /> 
+<!-- <img src="./assets/snake.svg" alt="snake game" align="center" style="width: 100%" /> --> 
