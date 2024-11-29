@@ -18,7 +18,7 @@ Confira meu portfólio de projetos em <a href="https://portifolio-marcosmontes-p
 
 ## Habilidades
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,vue,react,next,nodejs,git,github,vercel,vscode,linux)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,scss,js,vue,react,next,nodejs,git,github,vercel,vscode,linux)](https://skillicons.dev)
 
 Tenho experiência em desenvolvimento Full Stack com ênfase em JavaScript, React, Next.js, Node.js e Linux. Trabalho tanto no front-end quanto no back-end, sempre buscando melhorar a experiência do usuário e a performance do sistema.
 
