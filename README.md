@@ -10,11 +10,12 @@ Confira meu portfólio de projetos em <a href="https://portifolio-marcosmontes-p
 
 ## GitHub Stats
 
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcos-monte&custom_title=Github+Stats&bg_color=113&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286" alt="GitHub Stats" width="406" />
+<div style="display: flex; justify-content: center; align-items: stretch; gap: 1rem;">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcos-monte&custom_title=Github+Stats&bg_color=113&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286" alt="GitHub Stats" style="width: 49%; height: 200px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Monte&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width: 49%; height: 200px;" />
 </div>
 
-![MographlloCode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Monte&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Habilidades
 
