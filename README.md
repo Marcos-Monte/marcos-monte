@@ -25,11 +25,14 @@ Tenho experiência em desenvolvimento Full Stack com ênfase em JavaScript, Reac
 
 ## Projetos em Destaque:
 
+- [**Jogo - Matador de Monstros - Desenvolvido em Vue.js**](https://github.com/Marcos-Monte/matador-de-monstros)
+
 - [**Pagina Institucional - Candidato a Vereador**](https://github.com/Marcos-Monte/thiago-andrade)
 
 - [**Cadastro e Monitoramento de Gestantes - Unidade de Saúde**](https://github.com/Marcos-Monte/cadastro-gestantes)
 
 - [**API - Cadastro e Monitoramento de Gestantes - Unidade de Saúde**](https://github.com/Marcos-Monte/api-cadastro-gestantes)
+  
 
 ### 📭 Contatos
 
