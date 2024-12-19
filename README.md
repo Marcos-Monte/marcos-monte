@@ -25,6 +25,8 @@ Tenho experiência em desenvolvimento Full Stack com ênfase em JavaScript, Reac
 
 ## Projetos em Destaque:
 
+- [**ToDo List - Lista de Tarefas - Desenvolvido em Vue.js**](https://github.com/Marcos-Monte/todo-list)
+
 - [**Jogo - Matador de Monstros - Desenvolvido em Vue.js**](https://github.com/Marcos-Monte/matador-de-monstros)
 
 - [**Pagina Institucional - Candidato a Vereador**](https://github.com/Marcos-Monte/thiago-andrade)
