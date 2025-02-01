@@ -25,15 +25,17 @@ Tenho experiência em desenvolvimento Full Stack com ênfase em JavaScript, Vue.
 
 ## Projetos em Destaque:
 
-- [**Portifólio Pessoal - Desenvolvido em Vue.js**](https://github.com/Marcos-Monte/marcos-monte-dev)
+- [**Pagina Institucional - Candidato a Vereador**](https://thiagoandradests.com.br/)
+
+- [**Portifólio Pessoal - Desenvolvido em Vue.js**](https://marcosmontedev.vercel.app/)
   
-- [**ToDo List - Lista de Tarefas - Desenvolvido em Vue.js**](https://github.com/Marcos-Monte/todo-list)
+- [**Gerador de Solicitação de Visita Domiciliar (SUS) - Desenvolvido em Vue.js**](https://vd-valongo.vercel.app/)
+  
+- [**ToDo List - Lista de Tarefas - Desenvolvido em Vue.js**](https://todo-list-one-blue.vercel.app/)
 
-- [**Jogo - Matador de Monstros - Desenvolvido em Vue.js**](https://github.com/Marcos-Monte/matador-de-monstros)
+- [**Jogo - Matador de Monstros - Desenvolvido em Vue.js**](https://marcos-monte.github.io/matador-de-monstros/)
 
-- [**Pagina Institucional - Candidato a Vereador**](https://github.com/Marcos-Monte/thiago-andrade)
-
-- [**Cadastro e Monitoramento de Gestantes - Unidade de Saúde**](https://github.com/Marcos-Monte/cadastro-gestantes)
+- [**Cadastro e Monitoramento de Gestantes - Unidade de Saúde - Desenvolvido em React.js**](https://cadastro-gestantes.vercel.app/)
 
 - [**API - Cadastro e Monitoramento de Gestantes - Unidade de Saúde**](https://github.com/Marcos-Monte/api-cadastro-gestantes)
   
