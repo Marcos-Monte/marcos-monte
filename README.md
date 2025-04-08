@@ -22,7 +22,7 @@ Confira meu portfólio de projetos em <a href="https://marcosmontedev.vercel.app
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,scss,js,vue,react,next,nodejs,git,github,vercel,vscode,linux)](https://skillicons.dev)
 
-Tenho experiência em desenvolvimento Full Stack com ênfase em JavaScript, Vue.js, React.js, Next.js, Node.js e Linux. Trabalho tanto no front-end quanto no back-end, sempre buscando melhorar a experiência do usuário e a performance do sistema.
+Desenvolvedor Front-End com ênfase em Web. Tecnologias JavaScript, Vue.js, React.js, Next.js e Node.js. Sempre buscando melhorar a experiência do usuário e a performance do sistema.
 
 ## Projetos em Destaque:
 
